@@ -1,4 +1,28 @@
 body{
 	font-family: Arial;
-	background:red ;
+	background:blue ;
+	background-image: url("../views/as.jpeg");
+
+}
+
+
+h1{
+	color:red ;
+	background: blue; 
+}
+.Cat{
+	color:blue;
+}
+
+#dog{
+	color:orange;
+}
+
+..css-statements{
+	border: 10px soild black;
+}
+
+.CSS-Usess{
+	boder:5px soild turquoise;
+	background:yellow;
 }
